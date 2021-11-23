@@ -1,4 +1,4 @@
-#Ncea Level 1 Searching and Sorting Algorithms Assessment
+#Ncea Level 1 Programming Searching and Sorting Algorithms Assessment
 #Linear Search algorithm
 
 #Choice Checker function
