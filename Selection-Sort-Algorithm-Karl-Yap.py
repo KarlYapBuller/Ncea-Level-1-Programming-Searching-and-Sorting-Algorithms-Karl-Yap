@@ -1,4 +1,4 @@
-#Searching and Sorting Algorithms
+#Ncea Level 1 Programming Searching and Sorting Algorithms Assessment
 #Selection Sort Algorithm
 
 #Selection Sort Function
