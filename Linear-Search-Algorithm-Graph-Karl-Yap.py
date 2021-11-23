@@ -1,4 +1,4 @@
-#Ncea Level 1 Searching and Sorting Algorithms Assessment
+#Ncea Level 1 Programming Searching and Sorting Algorithms Assessment
 #Linear Search algorithm Graph
 
 #Impart random is used for to choose a random number inbetween the ranges of the lists
